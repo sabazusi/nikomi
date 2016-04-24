@@ -21,6 +21,7 @@ gem 'dotenv-rails'
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
+gem 'slim-rails'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
